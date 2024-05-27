@@ -1,7 +1,7 @@
 # atdm-tezi-image
 ATDM TEZI image that can be used with Torizon tools to perform limited customization (e.g., change the splash screen).
 
-[Download ATDM TEZI Image](https://drive.google.com/file/d/1dvIXPCH5OlxPLMUz1HclozqxjfWhFkVn/view?usp=sharing).
+[Download ATDM TEZI Image](https://drive.google.com/file/d/1dvIXPCH5OlxPLMUz1HclozqxjfWhFkVn/view?usp=sharing)
 
 # Installing the TEZI Image for ATDM
 
