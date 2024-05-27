@@ -8,7 +8,7 @@ ATDM TEZI image that can be used with Torizon tools to perform limited customiza
 ## Step 1: Download the Torizon Easy Installer
 
 ### Visit the Toradex Easy Installer Page:
-- Go to the [Toradex Easy Installer page](https://developer.toradex.com/software/toradex-easy-installer).
+- Go to the [Toradex Easy Installer page](https://developer.toradex.com/software/toradex-easy-installer)
 
 ### Download the Installer:
 - Select the appropriate TEZI installer for your ATDM and download it to your computer.
